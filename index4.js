@@ -7,7 +7,7 @@ import YouTube from 'simple-youtube-api';
 import { exit } from 'process';
 
 // Read JSON data from file
-const json = readFileSync('./data/source/2024_prices.json');
+const json = readFileSync('./data/source/2024_prices2.json');
 const data = JSON.parse(json);
 console.log(data);
 
@@ -100,6 +100,5 @@ ${videos
     fs.writeFileSync(filename, outputContent);
     console.log(`File saved: ${filename}`);
 
-    exit();
   }
 })();

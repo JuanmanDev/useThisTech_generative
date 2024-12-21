@@ -1,0 +1,695 @@
+[
+    {
+        "product_name": "DJI Mini 3 Pro Drone",
+        "category": "Drones",
+        "price": 739.00,
+        "oldPrice": null,
+        "stars": 4.4
+    },
+    {
+        "product_name": "Roku Streaming Stick 4K",
+        "category": "Streaming Devices",
+        "price": 29.00,
+        "oldPrice": 49.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Anker PowerCore Portable Charger",
+        "category": "Portable Chargers",
+        "price": 49.99,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Logitech MX Master 3S Mouse",
+        "category": "Computer Mice",
+        "price": 99.99,
+        "oldPrice": null,
+        "stars": 4.7
+    },
+    {
+        "product_name": "LG C2 OLED TV",
+        "category": "Televisions",
+        "price": 1396.99,
+        "oldPrice": 1499.99,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Sony PlayStation 5",
+        "category": "Gaming Consoles",
+        "price": 499.99,
+        "oldPrice": null,
+        "stars": 4.9
+    },
+    {
+        "product_name": "Xbox Series X",
+        "category": "Gaming Consoles",
+        "price": 499.99,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Apple AirTag",
+        "category": "Tracking Devices",
+        "price": 29.00,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Netgear Nighthawk WiFi 6 Router",
+        "category": "Networking",
+        "price": 299.99,
+        "oldPrice": null,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Seagate Portable 2TB External Hard Drive",
+        "category": "External Storage",
+        "price": 62.99,
+        "oldPrice": 69.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Samsung T7 Portable SSD",
+        "category": "External Storage",
+        "price": 109.99,
+        "oldPrice": 139.99,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Canon EOS R6 Mirrorless Camera",
+        "category": "Cameras",
+        "price": 2499.00,
+        "oldPrice": null,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Jabra Elite 85t Wireless Earbuds",
+        "category": "Wireless Earbuds",
+        "price": 229.99,
+        "oldPrice": 249.99,
+        "stars": 4.5
+    },
+    {
+        "product_name": "Ring Video Doorbell Pro 2",
+        "category": "Smart Home Security",
+        "price": 249.99,
+        "oldPrice": null,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Apple Magic Keyboard",
+        "category": "Keyboards",
+        "price": 99.00,
+        "oldPrice": null,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Dell UltraSharp 27-inch Monitor",
+        "category": "Monitors",
+        "price": 679.00,
+        "oldPrice": null,
+        "stars": 4.4
+    },
+    {
+        "product_name": "HyperX Cloud II Gaming Headset",
+        "category": "Gaming Accessories",
+        "price": 99.99,
+        "oldPrice": 79.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "NVIDIA GeForce RTX 3080 Graphics Card",
+        "category": "Computer Components",
+        "price": 699.99,
+        "oldPrice": null,
+        "stars": 4.7
+    },
+    {
+        "product_name": "TP-Link Kasa Smart Plug",
+        "category": "Smart Home Devices",
+        "price": 24.99,
+        "oldPrice": 29.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "SanDisk Extreme Pro SDXC Memory Card",
+        "category": "Memory Cards",
+        "price": 39.99,
+        "oldPrice": 49.99,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Philips Hue White and Color Ambiance Starter Kit",
+        "category": "Smart Lighting",
+        "price": 179.99,
+        "oldPrice": 199.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Corsair K95 RGB Platinum Mechanical Gaming Keyboard",
+        "category": "Keyboards",
+        "price": 199.99,
+        "oldPrice": 229.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Garmin Forerunner 955",
+        "category": "Fitness Trackers",
+        "price": 499.99,
+        "oldPrice": null,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Apple TV 4K (2022)",
+        "category": "Streaming Devices",
+        "price": 129.00,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Google Nest Learning Thermostat",
+        "category": "Smart Home Devices",
+        "price": 249.00,
+        "oldPrice": null,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Belkin BoostCharge Pro 3-in-1 Wireless Charger",
+        "category": "Charging Accessories",
+        "price": 149.99,
+        "oldPrice": null,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Samsung Galaxy Watch5",
+        "category": "Smartwatches",
+        "price": 279.99,
+        "oldPrice": 299.99,
+        "stars": 4.5
+    },
+    {
+        "product_name": "Alienware Aurora R13 Gaming Desktop",
+        "category": "Desktops",
+        "price": 2399.99,
+        "oldPrice": null,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Razer Blade 15 Gaming Laptop",
+        "category": "Laptops",
+        "price": 2799.99,
+        "oldPrice": 2999.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "WD_BLACK 1TB SN850 NVMe Internal Gaming SSD",
+        "category": "Computer Components",
+        "price": 119.99,
+        "oldPrice": 149.99,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Lenovo ThinkPad X1 Carbon Gen 10",
+        "category": "Laptops",
+        "price": 1599.99,
+        "oldPrice": 1699.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Sony Alpha a7 IV Mirrorless Camera",
+        "category": "Cameras",
+        "price": 2498.00,
+        "oldPrice": null,
+        "stars": 4.9
+    },
+    {
+        "product_name": "HP Envy 6055e All-in-One Printer",
+        "category": "Printers",
+        "price": 149.99,
+        "oldPrice": 169.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Echo Show 10 (3rd Gen)",
+        "category": "Smart Displays",
+        "price": 249.99,
+        "oldPrice": 269.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "ASUS ROG Strix G15 Gaming Laptop",
+        "category": "Laptops",
+        "price": 1499.99,
+        "oldPrice": null,
+        "stars": 4.5
+    },
+    {
+        "product_name": "Fitbit Versa 4",
+        "category": "Fitness Trackers",
+        "price": 199.95,
+        "oldPrice": 229.95,
+        "stars": 4.3
+    },
+    {
+        "product_name": "Anker Soundcore Bluetooth Speaker",
+        "category": "Speakers",
+        "price": 49.99,
+        "oldPrice": null,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Logitech C920 HD Pro Webcam",
+        "category": "Webcams",
+        "price": 69.99,
+        "oldPrice": 89.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Oculus Quest 2 VR Headset",
+        "category": "Virtual Reality",
+        "price": 399.99,
+        "oldPrice": 429.99,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Canon PIXMA TR8620 All-In-One Printer",
+        "category": "Printers",
+        "price": 199.99,
+        "oldPrice": null,
+        "stars": 4.5
+    },
+    {
+        "product_name": "Tile Pro (2022) Bluetooth Tracker",
+        "category": "Tracking Devices",
+        "price": 34.99,
+        "oldPrice": null,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Dell XPS 13 Laptop",
+        "category": "Laptops",
+        "price": 1349.99,
+        "oldPrice": 1499.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Sonos One (Gen 2) Smart Speaker",
+        "category": "Speakers",
+        "price": 219.00,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Eufy RoboVac 30C Robot Vacuum",
+        "category": "Home Appliances",
+        "price": 199.99,
+        "oldPrice": 249.99,
+        "stars": 4.4
+    },
+    {
+        "product_name": "TP-Link Archer AX50 WiFi 6 Router",
+        "category": "Networking",
+        "price": 149.99,
+        "oldPrice": 159.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "LG Gram 17-inch Laptop",
+        "category": "Laptops",
+        "price": 1799.99,
+        "oldPrice": 1899.99,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Samsung Odyssey G9 Gaming Monitor",
+        "category": "Monitors",
+        "price": 1399.99,
+        "oldPrice": null,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Audio-Technica ATH-M50x Professional Monitor Headphones",
+        "category": "Headphones",
+        "price": 149.00,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Amazon Fire HD 10 Tablet",
+        "category": "Tablets",
+        "price": 149.99,
+        "oldPrice": 199.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Dyson V11 Torque Drive Cordless Vacuum Cleaner",
+        "category": "Home Appliances",
+        "price": 599.99,
+        "oldPrice": 649.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Blink Outdoor Wireless Security Camera",
+        "category": "Smart Home Security",
+        "price": 99.99,
+        "oldPrice": 129.99,
+        "stars": 4.5
+    },
+    {
+        "product_name": "Fitbit Sense 2",
+        "category": "Smartwatches",
+        "price": 299.95,
+        "oldPrice": null,
+        "stars": 4.4
+    },
+    {
+        "product_name": "Apple HomePod mini",
+        "category": "Smart Speakers",
+        "price": 99.00,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Ring Alarm 8-Piece Kit (2nd Gen)",
+        "category": "Smart Home Security",
+        "price": 249.99,
+        "oldPrice": 279.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "ASUS ZenBook Duo 14",
+        "category": "Laptops",
+        "price": 1299.99,
+        "oldPrice": 1399.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Kasa Smart Light Switch",
+        "category": "Smart Home Devices",
+        "price": 17.99,
+        "oldPrice": 24.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "NETGEAR Orbi Mesh WiFi System",
+        "category": "Networking",
+        "price": 399.99,
+        "oldPrice": null,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Samsung Galaxy Buds2 Pro",
+        "category": "Wireless Earbuds",
+        "price": 199.99,
+        "oldPrice": 229.99,
+        "stars": 4.5
+    },
+    {
+        "product_name": "MSI GeForce RTX 3090 Gaming X Trio",
+        "category": "Computer Components",
+        "price": 2299.99,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Ring Stick Up Cam Battery",
+        "category": "Smart Home Security",
+        "price": 99.99,
+        "oldPrice": 129.99,
+        "stars": 4.5
+    },
+    {
+        "product_name": "Google Pixelbook Go",
+        "category": "Laptops",
+        "price": 849.00,
+        "oldPrice": null,
+        "stars": 4.5
+    },
+    {
+        "product_name": "SteelSeries Apex Pro Mechanical Gaming Keyboard",
+        "category": "Keyboards",
+        "price": 199.99,
+        "oldPrice": 229.99,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Arlo Pro 4 Spotlight Camera",
+        "category": "Smart Home Security",
+        "price": 199.99,
+        "oldPrice": 229.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "HyperX Alloy FPS Pro Mechanical Gaming Keyboard",
+        "category": "Keyboards",
+        "price": 89.99,
+        "oldPrice": 99.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "DJI Osmo Mobile 6 Smartphone Gimbal",
+        "category": "Photography Accessories",
+        "price": 159.99,
+        "oldPrice": null,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Logitech G502 HERO High Performance Gaming Mouse",
+        "category": "Computer Mice",
+        "price": 49.99,
+        "oldPrice": 69.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Samsung 980 PRO SSD",
+        "category": "Computer Components",
+        "price": 119.99,
+        "oldPrice": 149.99,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Sony SRS-XB43 Portable Bluetooth Speaker",
+        "category": "Speakers",
+        "price": 249.99,
+        "oldPrice": null,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Tile Mate (2022) Bluetooth Tracker",
+        "category": "Tracking Devices",
+        "price": 24.99,
+        "oldPrice": 29.99,
+        "stars": 4.5
+    },
+    {
+        "product_name": "Bose SoundLink Revolve+ II Bluetooth Speaker",
+        "category": "Speakers",
+        "price": 329.99,
+        "oldPrice": 349.99,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Nikon Z6 II Mirrorless Camera",
+        "category": "Cameras",
+        "price": 1999.99,
+        "oldPrice": null,
+        "stars": 4.7
+    },
+    {
+        "product_name": "HP Spectre x360 14",
+        "category": "Laptops",
+        "price": 1599.99,
+        "oldPrice": 1799.99,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Anker Nebula Capsule Max Portable Projector",
+        "category": "Projectors",
+        "price": 469.99,
+        "oldPrice": null,
+        "stars": 4.5
+    },
+    {
+        "product_name": "BenQ HT2050A 1080P Home Theater Projector",
+        "category": "Projectors",
+        "price": 799.99,
+        "oldPrice": null,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Sonos Beam (Gen 2) Soundbar",
+        "category": "Home Audio",
+        "price": 449.00,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Razer Kraken Gaming Headset",
+        "category": "Gaming Accessories",
+        "price": 79.99,
+        "oldPrice": 99.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Ring Floodlight Cam Wired Plus",
+        "category": "Smart Home Security",
+        "price": 179.99,
+        "oldPrice": 199.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Samsung Galaxy Book Pro 360",
+        "category": "Laptops",
+        "price": 1299.99,
+        "oldPrice": 1499.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Nest Cam (Battery)",
+        "category": "Smart Home Security",
+        "price": 129.99,
+        "oldPrice": 149.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Anker PowerConf Bluetooth Speakerphone",
+        "category": "Office Electronics",
+        "price": 129.99,
+        "oldPrice": null,
+        "stars": 4.5
+    },
+    {
+        "product_name": "WD My Passport 4TB External Hard Drive",
+        "category": "External Storage",
+        "price": 99.99,
+        "oldPrice": 119.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Samsung Galaxy S21 FE",
+        "category": "Smartphones",
+        "price": 599.99,
+        "oldPrice": 649.99,
+        "stars": 4.5
+    },
+    {
+        "product_name": "Bose Frames Tempo Audio Sunglasses",
+        "category": "Wearable Technology",
+        "price": 249.99,
+        "oldPrice": null,
+        "stars": 4.3
+    },
+    {
+        "product_name": "Fitbit Inspire 3",
+        "category": "Fitness Trackers",
+        "price": 99.95,
+        "oldPrice": null,
+        "stars": 4.4
+    },
+    {
+        "product_name": "Canon EOS M50 Mark II Mirrorless Camera",
+        "category": "Cameras",
+        "price": 789.00,
+        "oldPrice": null,
+        "stars": 4.1
+    },
+    {
+        "product_name": "Belkin USB-C Hub Multiport Adapter",
+        "category": "Computer Accessories",
+        "price": 95.99,
+        "oldPrice": 119.99,
+        "stars": 4.5
+    },
+    {
+        "product_name": "DJI Mavic 3 Drone",
+        "category": "Drones",
+        "price": 2049.00,
+        "oldPrice": 2199.00,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Echo Buds (2nd Gen)",
+        "category": "Wireless Earbuds",
+        "price": 119.99,
+        "oldPrice": 139.99,
+        "stars": 4.4
+    },
+    {
+        "product_name": "Anker Soundcore Life Q35 Headphones",
+        "category": "Headphones",
+        "price": 129.99,
+        "oldPrice": null,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Apple Mac Mini M2",
+        "category": "Desktops",
+        "price": 699.00,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Logitech Brio Ultra HD Webcam",
+        "category": "Webcams",
+        "price": 199.99,
+        "oldPrice": 239.99,
+        "stars": 4.5
+    },
+    {
+        "product_name": "Eero Pro 6 Mesh Wi-Fi System",
+        "category": "Networking",
+        "price": 399.00,
+        "oldPrice": 499.00,
+        "stars": 4.6
+    },
+    {
+        "product_name": "HP Reverb G2 Virtual Reality Headset",
+        "category": "Virtual Reality",
+        "price": 599.00,
+        "oldPrice": 649.00,
+        "stars": 4.3
+    },
+    {
+        "product_name": "Sony Xperia 1 IV",
+        "category": "Smartphones",
+        "price": 1399.99,
+        "oldPrice": 1599.99,
+        "stars": 4.2
+    },
+    {
+        "product_name": "JBL Charge 5 Portable Bluetooth Speaker",
+        "category": "Speakers",
+        "price": 179.95,
+        "oldPrice": 199.95,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Garmin Fenix 7",
+        "category": "Smartwatches",
+        "price": 699.99,
+        "oldPrice": 799.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Logitech StreamCam",
+        "category": "Webcams",
+        "price": 169.99,
+        "oldPrice": 199.99,
+        "stars": 4.4
+    },
+    {
+        "product_name": "Sennheiser Momentum True Wireless 3 Earbuds",
+        "category": "Wireless Earbuds",
+        "price": 249.95,
+        "oldPrice": null,
+        "stars": 4.5
+    },
+    {
+        "product_name": "Microsoft Surface Laptop Studio",
+        "category": "Laptops",
+        "price": 1599.99,
+        "oldPrice": 1799.99,
+        "stars": 4.6
+    }   
+]

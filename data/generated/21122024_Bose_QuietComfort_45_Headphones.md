@@ -1,0 +1,75 @@
+---
+title: Bose QuietComfort 45 Headphones
+description: The Bose QuietComfort 45 Headphones are over-ear wireless headphones known for their exceptional noise-canceling capabilities, comfort, and audio quality. They feature advanced noise-canceling technology that effectively reduces ambient sounds, making them ideal for travel or noisy environments. The headphones offer a comfortable fit with plush ear cushions and a lightweight design, allowing for extended listening sessions without discomfort. They also provide a long battery life, typically around 24 hours on a single charge, and support quick charging for added convenience. Additionally, the QuietComfort 45 includes features like Bluetooth connectivity, intuitive controls, and a built-in microphone for clear voice calls.
+price: 329
+oldPrice: 349
+createdAt: '2024-12-21'
+rating: 4.7
+
+images: [
+  'https://www.pooleys.com/media/11845/aviation_headset_a30_sitting_controlmodule_clips.jpg', 'https://www.soundguys.com/wp-content/uploads/2022/02/bose-quietcomfort-45-eq-app.jpg', 'https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/11/bose-qc-45-review-4.jpeg', 'https://knowtechie.com/wp-content/uploads/2022/11/bose-quietcomfort-45-headphones.webp', 'https://www.tiktok.com/api/img/?itemId=7319280983394585898&location=0&aid=1988', 'https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc45/images/QC45_PDP_Gallery04_4x3.jpg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg', 'https://www.visions.ca/media/catalog/product/9/1/9109a656e7832026cda0def4c545e4f8f2e8d524b7795e8b2f7853a96da8cafb.jpeg?optimize=high&bg-color=255,255,255&fit=bounds&height=712&width=712&canvas=712:712', 'https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_512,h_514/https://www.startechstore.com/wp-content/uploads/2022/11/7-2.jpg', 'https://target.scene7.com/is/image/Target/GUEST_2b746d67-9f3f-42a9-b231-7cfe94c0d29a?wid=488&hei=488&fmt=pjpeg', 'https://www.bhphotovideo.com/images/fb/bose_smart_soundbar_900_with_1785062.jpg', 'https://microless.com/cdn/products/b3564e904845acb2659b5bbdbb6573a7-hi.jpg', 'https://preview.redd.it/fake-bose-qc-45-headphones-from-cex-v0-zanyw4m40v4b1.jpg?width=640&crop=smart&auto=webp&s=17652428a3566941bbc8306cfe11f6d2b168a355', 'https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1598239014458919', 'https://www.lbtechreviews.com/wp-content/uploads/2021/10/Bose-QC45-microphones-scaled-1.jpg', 'https://m.media-amazon.com/images/I/61KuCFrM3IL.jpg', 'https://i.rtings.com/assets/products/sg2TbiJH/bose-quietcomfort-45-qc45-wireless/app-small.jpg?format=auto', 'https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/158645-headphones-review-bose-qc45-review-image8-fwrycjsmy8.jpg', 'https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/11/Bose-QuietComfort-45-main.jpg', 'https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad643fac-145e-4c8a-91dd-9938ef20be32.__CR486,0,800,600_PT0_SX600_V1___.jpg', 'https://i.ytimg.com/vi/qWrXhqXAp8Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCEMXdtA5RFcPt7D9-cysaauMKBZg', 'https://thegoodguys.sirv.com/products/50091716/50091716_928765.PNG?profile=social', 'https://media.azadea.com/i/davinci/B5_884367-0500_000__B501_000__101__01?$prd_medium$&fmt=auto', 'https://bgr.com/wp-content/uploads/2024/08/Bose-QuietComfort-Ultra-Diamond-1.jpg?quality=82&strip=all', 'https://undergroundsound.eu/wp-content/uploads/2024/01/bo5.jpg', 'https://photos-us.bazaarvoice.com/photo/2/cGhvdG86Ym9zZQ/4b6488f9-6c03-57b3-895e-5329e63db23a', 'https://cdn.ecoustics.com/db0/wblob/17BA35E873D594/28E8/421BB/TfjQ8OTv4KhSY66r18VPT03h9evhVlHvhdyoYenyIdc/bose-quietcomfort-45-wireless-headphones-lifestyle-man-black.jpg', 'https://m.media-amazon.com/images/I/51ijarJiPXL.jpg', 'https://i.ytimg.com/vi/d24YdWqh9c0/sddefault.jpg', 'https://mightyskins.com/cdn/shop/files/66872_6560869777462_9e1c94f0_e04e_4f41_b86f_009c3712e1a9_71300acb-c7f8-4bff-a1fe-d67a97459762_1024x1024.jpg?v=1688587856', 'https://www.worldwidestereo.com/cdn/shop/files/180247_WWS5_1946x.jpg?v=1724941191', 'https://static1.xdaimages.com/wordpress/wp-content/uploads/2020/09/bose-quietcomfort-35-ii-gaming-headset-lifestyle.jpeg', 'https://imagecdn.jw.com.au/media/catalog/product/b/o/bose-quietcomfort-45noise-cancelling-headphone-blue-2.jpg?width=514&height=514&store=default&image-type=image', 'https://i.pcmag.com/imagery/reviews/03HLHxYwmSDm61yAH840Kdt-11.fit_lim.size_1050x.jpg', 'https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/QCUH-HEADPHONEARN/product_silo_images/QCUHLE25_LunarBlue_AEM_PDP_Gallery_01_NEW.png/jcr:content/renditions/cq5dam.web.1920.1920.png', 'https://sm.pcmag.com/pcmag_uk/news/a/apple-airp/apple-airpods-max-vs-bose-quietcomfort-45-vs-sony-wh-1000xm4_dq17.jpg', 'https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/QCUH-HEADPHONEARN/product_silo_images/QCUHLE25_Diamond_AEM_ECOMM_GALLERY_02.jpg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg', 'https://www.soundguys.com/wp-content/uploads/2021/10/SG_Bose-QC-45_9.jpg', 'https://media.sweetwater.com/m/products/image/1c89625c0aqy15sZMa1MJi2Zr45fH7knu7Fj1TUd.png?v=1c89625c0a59a01a', 'https://assets.bosecreative.com/transform/4d6af844-66a2-49cc-9adb-0e2b93c53267/qc35_ii_qc45_case_product_silo_images_QC45_Case_1x1', 'https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/158645-headphones-review-bose-qc45-review-image17-szzaj4t8d6.jpg', 'https://images.fonearena.com/blog/wp-content/uploads/2021/07/Bose-QC45-FCC.jpg', 'https://markellisreviews.com/wp-content/uploads/2023/12/5-scaled.jpg', 'https://www.stuff.tv/wp-content/uploads/sites/2/2021/08/bose_quietcomfort_35_main_5.png', 'https://m.media-amazon.com/images/I/71+OT6dhLbL.jpg', 'https://telefonika.com/wp-content/uploads/2022/01/Bose-QuietComfort-45-Wireless-Noise-Canceling-Headphone-150x138.jpg', 'https://cdn.shopify.com/s/files/1/0024/9803/5810/files/jb-au-20240815-bose-landing-subheader-banded_7deca25a-bbc1-4997-b064-25a264875218.jpg?v=1730080399&width=2048', 'https://preview.redd.it/bose-qc-45-sound-leaking-v0-9ffyyn24aa8d1.jpeg?auto=webp&s=6502f60e358eb9a62aa14a1ef0be5d3b52426956', 'https://www.galaxus.ch/im/Files/4/8/4/7/1/9/1/6/1920 JPG-QC45_WhiteSmoke_4514_RGB.JPG', 'https://audioteceg.com/cdn/shop/files/QC45_grande.jpg?v=1715089151', 'https://assets.bosecreative.com/transform/4c01db74-21b1-4442-8708-f90a4b3cb764/QCUH24_Black_Silo_Expressive?io=width:1176,height:968,transform:fill', 'https://manofmany.com/wp-content/uploads/2022/03/Bose-QuietComfort-45-headphones.png', 'https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xMTE2NDI2OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5Mzk0NzMzOH0.BRhIaugOyyxv8TAoh2rRDelxWKvQw-NdqT3u_TgFRJ4/img.jpg?width=1200&height=800&quality=85&coordinates=0,40,0,41', 'https://cdn.vox-cdn.com/thumbor/zK1g5fOdNG7KTwOZ5KV1gvKQP0o=/0x0:2040x1360/2000x1333/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22888318/cwelch_202109_4775_5619.jpg', 'https://www.nfm.com/dw/image/v2/BDFM_PRD/on/demandware.static/-/Sites-nfm-master-catalog/default/dwc3da0512/images/067/11/67118885-4.jpg?sw=1000&sh=1000&sm=fit', 'https://www.soundguys.com/wp-content/uploads/2022/02/bose-quietcomfort-45-eq-app.jpg', 'https://media.gq-magazine.co.uk/photos/6176bc2d60d3ea547b8fe5ab/16:9/w_2560,c_limit/Bose25.jpg', 'https://images.crutchfieldonline.com/products/2023/37/018/g018QCULTBK-F.jpg', 'https://www.cnet.com/a/img/resize/a9906ec4f78e5cae590e48cc602f3b804c378989/hub/2021/10/04/8502d269-faf1-4c4a-aa9a-6b06a9d2ce74/yt-bose-qc-45-9.jpg?auto=webp&fit=crop&height=675&width=1200', 'https://www.insidehook.com/wp-content/uploads/2021/10/bose-3.jpg?w=1200&resize=1200,800', 'https://i5.walmartimages.com/asr/0eca072b-75b1-40d0-aed6-611bca4a2160.fcd7d5aef9d6cfcd32b2a50362662092.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF', 'https://www.aircraftspruce.com/catalog/graphics/1/11-19484.jpg', 'https://www.stuff.tv/wp-content/uploads/sites/2/2021/08/bose_quietcomfort_35_main_2.png', 'https://www.soundguys.com/wp-content/uploads/2023/11/Bose-Quietcomfort-Ultra-Headhones-Featured-Image-1-scaled.jpg', 'https://www.zdnet.com/a/img/resize/d52c4995fc627144cbd9fc38b0e43408e21830cc/2023/10/11/cfdef247-63ab-4229-90d7-53fada5a4e99/img-8325.jpg?auto=webp&precrop=4032,2265,x0,y429&width=1280', 'https://metapod.com/cdn/shop/files/BoseQuietComfortUltraNoiseCancellingHeadphoneswithSpatialAudio_Diamond60Ed_1.png?v=1733970923&width=1500', 'https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3364733178484321369', 'https://cdn.vox-cdn.com/thumbor/2pepJCvqngYjrArzESTPuBqWha4=/0x0:2040x1360/2040x1360/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22883429/cwelch_202109_4775_5635.jpg', 'https://d.newsweek.com/en/full/1907016/bose-qc45.jpg?w=1600&h=1600&q=88&f=32efc65797d69ef0d4cd681a4430a6c6', 'https://grandhub.co.ke/wp-content/uploads/2023/07/Bose-QuietComfort-45-Headphones-price-in-Kenya.jpg', 'https://cdn.thewirecutter.com/wp-content/media/2024/11/noicecancellingheadphones-2048px-bosehero.jpg?auto=webp&quality=75&width=1024', 'https://zoneofdeals.com/wp-content/uploads/2024/02/motorola_razer_plus-removebg-preview.png', 'https://avshack.in/cdn/shop/products/34_36d0e89f-8e94-4a1d-95f3-8eebcd60a174.jpg?v=1591103675&width=640', 'https://www.soundguys.com/wp-content/uploads/2023/09/bose-quietcomfort-headphones-hero-scaled.jpg', 'https://www.slickwraps.com/cdn/shop/files/Carbon_Blue_92046e88-bf71-4996-99d1-46ff5005ee53.jpg?v=1711883457&width=720', 'https://i.ytimg.com/vi/ZoeERvQeG78/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBAIp3V7iS2uu1UsxLvv1aaRvkiKg', 'https://kalingatv.com/wp-content/uploads/2022/04/bose-headphones.jpg', 'https://www.lifewire.com/thmb/1WUuHyAdZsO_sUw7UONM_-LiVdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SpaceOnePro_Black_Lifestyle2-768b76baac03476baba180d093dca129.jpg', 'https://thepointsguy.global.ssl.fastly.net/us/originals/2022/10/20221010_BOSE-700-Headphones_KOlsen_49.jpg', 'https://cdn.pickr.com.au/wp-content/uploads/2021/12/99FB842B-3D72-4D46-BB15-7DA41AB3290C.jpeg', 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/225cab32-5648-4e6b-8c7b-be0fd1bf7ed7.jpg;maxHeight=144;maxWidth=200?format=webp'
+]
+videos: 
+  - platform: 'youtube'
+    id: 'cgR57T9Lnao'
+    title: 'Bose QuietComfort 45 headphones review: Time to ditch Sony?'
+  - platform: 'youtube'
+    id: 'Y0g0qXawlJ0'
+    title: 'Bose QuietComfort® 45 Headphones – Unboxing and Setup'
+  - platform: 'youtube'
+    id: 'QOe69Kc20sU'
+    title: 'NEW Bose Quietcomfort VS Quietcomfort 45 | The ONE Reason To Upgrade!'
+  - platform: 'youtube'
+    id: 'ufjOeHL9kCA'
+    title: 'Are the Bose QC45 the PERFECT headphones?'
+  - platform: 'youtube'
+    id: 'qPx4_GuHI4w'
+    title: 'Bose QuietComfort® 45 Headphones | Iconic Quiet. Comfort. And Sound.'
+  - platform: 'youtube'
+    id: 'm5V5jP1VCzo'
+    title: 'Bose QuietComfort Headphones – Controls Overview'
+  - platform: 'youtube'
+    id: 'o3RWGsxHEi4'
+    title: 'Unboxing the Bose QuietComfort 45 Headphones'
+  - platform: 'youtube'
+    id: 'byM04iJm1m4'
+    title: 'Should you buy the Bose QuietComfort 45? 🎧'
+  - platform: 'youtube'
+    id: 'Q9XB3hLkPPc'
+    title: 'Bose QC45 vs. Sony 1000XM5 Acitve Noise Cancellation #anc test'
+  - platform: 'youtube'
+    id: 'xFFRVN98O5c'
+    title: 'Is the Bose QuietComfort 45 still good in 2024? - Five Minute Review!'
+---
+
+# Experience Unmatched Serenity with Bose QuietComfort 45 Headphones 🎧
+
+In the world of audio technology, Bose has consistently set the bar high, and the Bose QuietComfort 45 Headphones are no exception. Whether you're a music enthusiast, a frequent traveler, or someone who simply cherishes peace and quiet, these headphones are designed to elevate your auditory experience to new heights. Let's dive into what makes the Bose QuietComfort 45 a must-have in your audio arsenal.
+
+## Unparalleled Noise Cancellation 🌟
+
+The Bose QuietComfort 45 Headphones are equipped with advanced noise-canceling technology that effectively blocks out unwanted ambient sounds. Whether you're on a noisy flight or in a bustling café, these headphones create a serene soundscape, allowing you to immerse yourself fully in your music or podcast. The QuietComfort 45 offers two modes: Quiet Mode for maximum noise cancellation and Aware Mode, which lets in some of the outside world when you need it.
+
+## Superior Sound Quality 🎶
+
+Bose is renowned for its exceptional sound quality, and the QuietComfort 45 lives up to this reputation. With a balanced audio performance, these headphones deliver crisp highs, rich mids, and deep bass, ensuring that every note and beat is heard with clarity. Whether you're listening to classical symphonies or bass-heavy tracks, the QuietComfort 45 provides a listening experience that is both dynamic and immersive.
+
+## All-Day Comfort and Battery Life ⏳
+
+Designed with comfort in mind, the Bose QuietComfort 45 features plush ear cushions and a lightweight design, making them perfect for extended listening sessions. The headphones boast an impressive battery life of up to 24 hours on a single charge, ensuring that your music keeps playing all day long. Plus, with a quick 15-minute charge, you can get up to 3 hours of playback, perfect for those on-the-go moments.
+
+## Seamless Connectivity and Controls 📱
+
+With Bluetooth 5.1, the QuietComfort 45 offers a stable and seamless connection to your devices. The intuitive controls on the earcups allow you to manage your music, take calls, and activate your voice assistant with ease. Whether you're using them with your smartphone, tablet, or laptop, these headphones provide a hassle-free experience.
+
+## Built to Last with a Sleek Design 💪
+
+The Bose QuietComfort 45 Headphones are not only functional but also stylish. With a sleek and modern design, they are built to withstand the rigors of daily use. The durable materials ensure longevity, making them a worthwhile investment for any audiophile.
+
+## Summary: A Sound Investment 🎯
+
+In conclusion, the Bose QuietComfort 45 Headphones are a top-tier choice for anyone seeking superior sound quality, exceptional noise cancellation, and all-day comfort. Whether you're working from home, traveling, or simply relaxing, these headphones are designed to enhance your listening experience.
+
+**Is it a good product to buy?** Absolutely! The Bose QuietComfort 45 offers a perfect blend of performance, comfort, and style. If you find them on sale, don't miss out on this opportunity to own a pair of these incredible headphones at a fantastic price. 🎉
+
+Upgrade your audio experience today with the Bose QuietComfort 45 Headphones and enjoy the sound of silence like never before!
