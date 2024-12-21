@@ -1,0 +1,114 @@
+[
+    {
+        "product_name": "Apple iPhone 14 Pro Max",
+        "category": "Smartphones",
+        "price": 611.49,
+        "oldPrice": null,
+        "stars": 4.0
+    },
+    {
+        "product_name": "Samsung Galaxy S22 Ultra",
+        "category": "Smartphones",
+        "price": 1199.99,
+        "oldPrice": 1299.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Apple MacBook Pro M2",
+        "category": "Laptops",
+        "price": 1299.00,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Apple AirPods Pro (2nd Generation)",
+        "category": "Wireless Earbuds",
+        "price": 249.00,
+        "oldPrice": 279.00,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Amazon Echo Dot (4th Generation)",
+        "category": "Smart Speakers",
+        "price": 49.99,
+        "oldPrice": 59.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Apple iPad Pro (2022)",
+        "category": "Tablets",
+        "price": 799.00,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+        "category": "Headphones",
+        "price": 399.99,
+        "oldPrice": 349.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Nintendo Switch OLED Model",
+        "category": "Gaming Consoles",
+        "price": 349.99,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Fitbit Charge 5",
+        "category": "Fitness Trackers",
+        "price": 149.95,
+        "oldPrice": 179.95,
+        "stars": 4.4
+    },
+    {
+        "product_name": "Microsoft Surface Pro 8",
+        "category": "2-in-1 Laptops",
+        "price": 1099.99,
+        "oldPrice": 1199.99,
+        "stars": 4.5
+    },
+    {
+        "product_name": "GoPro HERO10 Black",
+        "category": "Action Cameras",
+        "price": 499.99,
+        "oldPrice": 549.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Apple Watch Series 8",
+        "category": "Smartwatches",
+        "price": 399.00,
+        "oldPrice": null,
+        "stars": 4.8
+    },
+    {
+        "product_name": "Kindle Paperwhite (2021)",
+        "category": "E-readers",
+        "price": 139.99,
+        "oldPrice": 159.99,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Samsung Galaxy Tab S8",
+        "category": "Tablets",
+        "price": 699.99,
+        "oldPrice": 749.99,
+        "stars": 4.6
+    },
+    {
+        "product_name": "Bose QuietComfort 45 Headphones",
+        "category": "Headphones",
+        "price": 329.00,
+        "oldPrice": 349.00,
+        "stars": 4.7
+    },
+    {
+        "product_name": "Google Pixel 7 Pro",
+        "category": "Smartphones",
+        "price": 899.00,
+        "oldPrice": 999.00,
+        "stars": 4.5
+    }
+]
