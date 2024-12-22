@@ -9,7 +9,6 @@ import { exit } from 'process';
 // Read JSON data from file
 const json = readFileSync('./data/source/2024_prices2.json');
 const data = JSON.parse(json);
-console.log(data);
 
 function shuffleArray(array) {
   for (let i = array.length - 1; i >= 0; i--) {
@@ -21,7 +20,7 @@ function shuffleArray(array) {
 (async () => {
   const youtube = new YouTube(process.env.YOUTUBE_API_KEY);
 
-  for (let i = 0; i < data.length; i++) {
+  for (let i = 68; i < data.length; i++) {
     const element = data[i];
 
     // Fetch YouTube videos
@@ -32,7 +31,7 @@ function shuffleArray(array) {
     });
 
     // Fetch Google images using Promise.all
-    const allResults = await Promise.all([
+    const allResults = await Promise.allSettled([
       google.image(`official images ${element.product_name}`, { query: { safe: true } }),
       google.image(`${element.product_name} with people`, { query: { safe: true } }),
       google.image(`${element.product_name} landing`, { query: { safe: true } }),
@@ -40,16 +39,22 @@ function shuffleArray(array) {
     ]);
 
     const images = allResults
-      .map(results => results.slice(0, 20))
+      .filter(result => result.status === 'fulfilled')
+      .map(results => results.value.slice(0, 20))
       .flat()
       .map(result => result.url);
+    
+      
+    allResults
+        .filter(result => result.status !== 'fulfilled')
+        .forEach(result => console.error(result.reason));
 
     shuffleArray(images);
 
     // Generate descriptions and blog post
     const { text: description } = await generateText({
       model: openai('gpt-4o'),
-      prompt: `Tell a short description of ${element.product_name}.`,
+      prompt: `Tell a short description of ${element.product_name}. Do not use colons or semicolons.`,
     });
 
     const { price, oldPrice, stars } = element;
@@ -98,7 +103,6 @@ ${videos
     }
 
     fs.writeFileSync(filename, outputContent);
-    console.log(`File saved: ${filename}`);
-
+    console.log(`${i}/${data.length}  File saved: ${filename}`);
   }
 })();
